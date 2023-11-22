@@ -10,6 +10,13 @@ Stay here for contribution-related information.
 
 <p align="center"><a href="https://alpinejs.dev/patterns"><img src="/hero.jpg" alt="Alpine Component Patterns"></a></p>
 
+## How to publish the `csp` package
+1. Run `npm install`
+2. Run `npm run build`
+3. Update the version in `/packages/csp/package.json`
+4. Run `cd packages/csp`
+5. Run `npm publish`
+
 ## Contribution Guide:
 
 ### Quickstart

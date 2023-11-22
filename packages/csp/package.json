@@ -1,5 +1,5 @@
 {
-    "name": "@alpinejs/csp",
+    "name": "@theqnaco/alpinejs-csp",
     "version": "3.0.0-alpha.0",
     "description": "A CSP compatible build of Alpine",
     "author": "Caleb Porzio",
